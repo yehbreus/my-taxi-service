@@ -31,4 +31,4 @@ JDK | Maven | TomCat | MySQL | JDBC | Servlet | JSTL | JSP | HTML, CSS
 
 
 ## 🔃Diagram of relations in DB
-![diagram-of-relations-in-db](img/diagram-of-relations-in-db.png)
+![diagram-of-relations-in-db](src/img/diagram-of-relations-in-db.png)
